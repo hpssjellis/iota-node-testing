@@ -1,5 +1,5 @@
 ///////////////////////////////
-// Send tokens
+// Send tokens From an account with IOTA back to the same account!
 ///////////////////////////////
 
 const iotaLibrary = require('@iota/core')
